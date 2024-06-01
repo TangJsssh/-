@@ -1,0 +1,15 @@
+D:\VS项目\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.exe
+D:\VS项目\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.deps.json
+D:\VS项目\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.runtimeconfig.json
+D:\VS项目\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.dll
+D:\VS项目\ConsoleApp25\ConsoleApp25\bin\Debug\net6.0\ConsoleApp25.pdb
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.csproj.AssemblyReference.cache
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.AssemblyInfoInputs.cache
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.AssemblyInfo.cs
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.csproj.CoreCompileInputs.cache
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.dll
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\refint\ConsoleApp25.dll
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.pdb
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ConsoleApp25.genruntimeconfig.cache
+D:\VS项目\ConsoleApp25\ConsoleApp25\obj\Debug\net6.0\ref\ConsoleApp25.dll
